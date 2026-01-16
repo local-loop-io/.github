@@ -1,10 +1,23 @@
 # LocalLoop Organization Profile
 
 This repository defines the GitHub organization profile for LocalLoop.
-See `profile/README.md` for the public landing page.
+See `profile/README.md` for the public landing page content.
 
-## How to Cite
+> Early-stage, low-TRL concept. No public pilots or deployments. Lab demo only.
 
+## What is here
+- `profile/README.md`: org profile content.
+- `AGENTS.md`: org context, domains, and runbooks.
+
+## How to update
+1. Edit `profile/README.md`.
+2. Keep claims aligned with the content policy in `AGENTS.md`.
+
+## Links
+- Org profile: https://github.com/local-loop-io
+- Docs hub: https://local-loop-io.github.io
+
+## How to cite
 If you reference this repository, please cite:
 Alphin Tom. "LocalLoop Organization Profile." LocalLoop, GitHub repository, 2025-2026. https://github.com/local-loop-io/.github
 
@@ -15,6 +28,6 @@ Alphin Tom. "LocalLoop Organization Profile." LocalLoop, GitHub repository, 2025
   year = {2025},
   howpublished = {GitHub repository},
   url = {https://github.com/local-loop-io/.github},
-  note = {Accessed 2025-12-19}
+  note = {Accessed 2026-01-16}
 }
 ```
