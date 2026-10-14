@@ -1,5 +1,9 @@
 # localLOOP Organization Profile
 
+> [!IMPORTANT]
+> **Archived 2026-10-14.** localLOOP development has moved to a private monorepo and this repository is read-only.
+> The lab demo now lives at **https://loop.urbnia.com** (API under `/api/`); `localloop.urbnia.com` and `loop-api.urbnia.com` redirect there.
+
 This repository defines the GitHub organization profile for localLOOP.
 See `profile/README.md` for the public landing page content.
 
