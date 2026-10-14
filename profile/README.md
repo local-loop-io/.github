@@ -5,7 +5,7 @@
 # localLOOP
 
 > [!IMPORTANT]
-> **Archived 2026-10-14.** localLOOP development has moved to a private monorepo and this repository is read-only.
+> **Archived 2026-10-14.** localLOOP development has moved to a private monorepo and the repositories in this organization are read-only.
 > The lab demo now lives at **https://loop.urbnia.com** (API under `/api/`); `localloop.urbnia.com` and `loop-api.urbnia.com` redirect there.
 
 **Local Optimization with Overflow Protocol**
