@@ -1,7 +1,7 @@
 # localLOOP Organization Profile
 
 > [!IMPORTANT]
-> **Archived 2026-10-14.** localLOOP development has moved to a private monorepo and this repository is read-only.
+> **Archived 2026-10-14.** localLOOP is now developed in the open at **[MycelAI/LocalLOOP](https://github.com/MycelAI/LocalLOOP)**; this repository's history continues there in [`ops/org-profile`](https://github.com/MycelAI/LocalLOOP/tree/main/ops/org-profile). This repository is read-only.
 > The lab demo now lives at **https://loop.urbnia.com** (API under `/api/`); `localloop.urbnia.com` and `loop-api.urbnia.com` redirect there.
 
 This repository defines the GitHub organization profile for localLOOP.
